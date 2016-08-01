@@ -4,6 +4,7 @@ title: "何以解忧，唯有杜康？"
 subtitle: "《白夜行》读后感"
 author: "ethansure"
 date: "2015-05-31 8:00:00"
+comment: true
 header-img: "img/post-bg-01.jpg"
 ---
 

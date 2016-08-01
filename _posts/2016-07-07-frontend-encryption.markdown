@@ -3,6 +3,7 @@ layout: post
 title: "当我们在谈论前端加密时，我们在谈些什么"
 author: "ethansure"
 date: "2016-07-07 18:00:00"
+comment: true
 header-img: "img/post-bg-01.jpg"
 ---
 

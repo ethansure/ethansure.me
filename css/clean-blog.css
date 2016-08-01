@@ -1,16 +1,10 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under MIT (https://spdx.org/licenses/MIT)
- */
-
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
+  font-size: 16px;
   color: #404040;
 }
 p {
-  line-height: 1.5;
+  line-height: 1.7;
   margin: 30px 0;
 }
 p a {
@@ -22,8 +16,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
+  font-weight: 700;
 }
 a {
   color: #404040;
@@ -53,15 +47,15 @@ hr.small {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
 }
 .navbar-custom .navbar-brand {
-  font-weight: 800;
+  font-weight: 700;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
   font-size: 12px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 1px;
 }
 @media only screen and (min-width: 768px) {
@@ -170,7 +164,7 @@ hr.small {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -189,7 +183,7 @@ hr.small {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
@@ -220,7 +214,7 @@ hr.small {
   color: #0085a1;
 }
 .post-preview > a > .post-title {
-  font-size: 30px;
+  font-size: 26px;
   margin-top: 30px;
   margin-bottom: 10px;
 }
@@ -234,6 +228,7 @@ hr.small {
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
+  font-family: 'Lora', 'Times New Roman', serif;
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
@@ -246,7 +241,7 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 .section-heading {
@@ -327,10 +322,10 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 .btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 1px;
   border-radius: 0;
   padding: 15px 25px;
@@ -350,10 +345,10 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a,
 .pager li > span {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir, 'Microsoft Yahei', 'Hiragino Sans GB', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 1px;
   padding: 10px 5px;
   background-color: white;
