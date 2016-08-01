@@ -1,0 +1,25 @@
+# Site settings
+title: ethansure's blog
+header-img: 'http://cdn.ethansure.me/cover/home.jpeg'
+email: ethan.jianxu@gmail.com
+copyright_name: ethansure
+description: "Do it."
+baseurl: ""
+url: "http://ethansure.me"
+twitter_username: ethan_sure
+github_username:  ethansure
+facebook_username:  
+email_username:  ethan.jianxu@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: "UA-45163660-1"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
