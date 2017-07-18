@@ -32,8 +32,8 @@ header-img: "img/post-bg-01.jpg"
 ```
 java -jar selenium-server-standalone-{VERSION}.jar
 ```
-
 如果主机没有安装 JRE, 则需要再安装 java 的运行环境或者是直接安装 jdk 。
+
 5. 修改测试项目的配置文件：还记得启动测试时需要指定的配置文件吗？这个配置文件 test.conf.js 非常重要，用于配置 selenium 以及测试的浏览器，当我们改变使用远程server的浏览器作为测试目标时，当然需要修改配置文件。我们需要将配置文件中的 selenium 项修改为如下形式：
 
 ```
