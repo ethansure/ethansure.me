@@ -28,7 +28,6 @@ header-img: "img/post-bg-01.jpg"
  * geckodriver (可用于 firefox, safari)下载地址:https://github.com/mozilla/geckodriver/releases
 
 4. 在主机上下载并启动 Selenium Server: 该 Server 实际上是一个 Java 小程序，用于 client 和 server 之间的通信（有关 selenium 原理的文章请关注《搞不懂不甘心》系列）。首先在 Selenium 的官网上下载 selenium-server-standalone-{VERSION}.jar， 然后启动该 Jar 包。如果主机没有安装 JRE, 则需要再安装 java 的运行环境或者是直接安装 jdk 。
-
   ```
   java -jar selenium-server-standalone-{VERSION}.jar
   ```
